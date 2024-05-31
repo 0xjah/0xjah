@@ -24,8 +24,8 @@
 
   <br>
   <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center">Connect with me</h1>
+<p align="center">
 <a href="https://twitter.com/0x_jah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x_jah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmad-jahaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-jahaf" height="30" width="40" /></a>
 <a href="https://instagram.com/0xjah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xjah" height="30" width="40" /></a>
