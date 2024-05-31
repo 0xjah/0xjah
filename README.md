@@ -1,4 +1,6 @@
-### Hello there!
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=209652&background=FF8DEA00&center=true&vCenter=true&width=435&height=30&lines=HI%2C+I'm+Shalini+Bhatt)](https://git.io/typing-svg)
+
+<br>### Hello there!
 #### I see you've found my profile! enjoy the ride....
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xjah&label=Profile%20views&color=0e75b6&style=flat" alt="0xjah" /> </p>
 
