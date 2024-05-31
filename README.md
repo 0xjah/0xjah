@@ -24,7 +24,6 @@
 
 <div align="center">
 <br/>
-  <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/d7faebc1-af60-49d0-92af-8606760d3664" alt="CyberSec">
-  <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/338f9bbc-6b50-4bd1-aede-594465602561" alt="BountyHunter">
+ 
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xjah&label=Profile%20views&color=0e75b6&style=flat" alt="0xjah" /> </p>
