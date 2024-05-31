@@ -1,18 +1,17 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=2D92148D&background=FF8DEA00&center=true&vCenter=true&width=435&height=30&lines=HI%2C+I'm+Ahmad+Jahaf+:3;I+see+you've+found+my+profile!+enjoy+the+ride....)](https://git.io/typing-svg)
-
 <p align="center">
-  <a href="https://github.com/lpsm-dev?tab=repositories&sort=stargazers">
+  <a href="https://github.com/0xjah?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=white&labelColor=black&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/0xajh"/>
   </a>
 
-  <a href="https://github.com/lpsm-dev">
+  <a href="https://github.com/0xjah">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0xjah?color=white&labelColor=black&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   
   <br>
   <br>
 
-  <img src=".github/assets/code.gif" width="175">
+  <img src="github/code.gif" width="175">
 </p>
 
 <p align="center">
@@ -33,7 +32,7 @@
 <h1 align="center">Techs</h1>
 
 <p align="center">
-  <img align="center" src=".github/assets/typing.gif" alt="GIF" width="300" heigh="190"/>
+  <img align="center" src="github/typing.gif" alt="GIF" width="300" heigh="190"/>
   
 </p>
 
