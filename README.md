@@ -55,13 +55,12 @@
 <hr>
 <div align="center">
   <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW80bjRpaTZ6emhjcXNyN3oycjMxanB4Z2Uxc21vYjM0emo3Y3oxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wl4qpVTu3se15zv6iq/giphy.gif" alt="Giphy">
+   <img align="center" src="github/ijiranaide-nagatoro-san-anime-jp.gif" alt="GIF" "/>
 </div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 <br/>
- 
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xjah&label=Profile%20views&color=0e75b6&style=flat" alt="0xjah" /> </p>
