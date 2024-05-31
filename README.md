@@ -1,8 +1,5 @@
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=209652&background=FF8DEA00&center=true&vCenter=true&width=435&height=30&lines=HI%2C+I'm+Shalini+Bhatt)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=2D92148D&background=FF8DEA00&center=true&vCenter=true&width=435&height=30&lines=HI%2C+I'm+Ahmad+Jahaf+:3;I+see+you've+found+my+profile!+enjoy+the+ride....)](https://git.io/typing-svg)
 
-<br>### Hello there!
-#### I see you've found my profile! enjoy the ride....
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xjah&label=Profile%20views&color=0e75b6&style=flat" alt="0xjah" /> </p>
 
 <p align="left"> <a href="https://twitter.com/0x_jah" target="blank"><img src="https://img.shields.io/twitter/follow/0x_jah?logo=twitter&style=for-the-badge" alt="0x_jah" /></a> </p>
 
@@ -30,3 +27,4 @@
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/d7faebc1-af60-49d0-92af-8606760d3664" alt="CyberSec">
   <img src="https://github.com/washingtonP1974/washingtonP1974/assets/55928887/338f9bbc-6b50-4bd1-aede-594465602561" alt="BountyHunter">
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xjah&label=Profile%20views&color=0e75b6&style=flat" alt="0xjah" /> </p>
