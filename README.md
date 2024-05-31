@@ -8,6 +8,17 @@
   <a href="https://github.com/lpsm-dev">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0xjah?color=white&labelColor=black&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
+  
+  <br>
+  <br>
+
+  <img src=".github/assets/code.gif" width="175">
+</p>
+
+<p align="center">
+[ <a href='https://github.com/0xjah/0xjah/issues/new'>Ask a question</a> ] ||
+[ <a href='https://github.com/0xjah/0xjah/issues?q=is%3Aissue+is%3Aclosed'>Read questions</a> ]
+</p>
 
   <br>
   <br>
