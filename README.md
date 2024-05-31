@@ -1,8 +1,16 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=2D92148D&background=FF8DEA00&center=true&vCenter=true&width=435&height=30&lines=HI%2C+I'm+Ahmad+Jahaf+:3;I+see+you've+found+my+profile!+enjoy+the+ride....)](https://git.io/typing-svg)
 
+<p align="center">
+  <a href="https://github.com/lpsm-dev?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=white&labelColor=black&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/lpsm-dev"/>
+  </a>
 
-<p align="left"> <a href="https://twitter.com/0x_jah" target="blank"><img src="https://img.shields.io/twitter/follow/0x_jah?logo=twitter&style=for-the-badge" alt="0x_jah" /></a> </p>
+  <a href="https://github.com/lpsm-dev">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/lpsm-dev?color=white&labelColor=black&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
 
+  <br>
+  <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0x_jah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x_jah" height="30" width="40" /></a>
@@ -11,8 +19,24 @@
 <a href="https://codeforces.com/profile/0xjah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="0xjah" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="center">Techs</h1>
+
+<p align="center">
+  <img align="center" src=".github/assets/typing.gif" alt="GIF" width="300" heigh="190"/>
+  
+</p>
+
+<p align="center">
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white">
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-black?&style=for-the-badge&logo=windows&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="ShellScript" src="https://img.shields.io/badge/-ShellScript-black?style=for-the-badge&logo=gnu%20bash&logoColor=white">
+  <img alt="Powershell" src="https://img.shields.io/badge/-PowerShell-black?&style=for-the-badge&logo=powershell&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img alt="JS" src="https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript&logoColor=white">
+</p>
 
 <hr>
 <div align="center">
