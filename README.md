@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+      <img src="github/anime-aaaa.gif" width="50">
     >𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!
   </h1>
 <p align="center">
