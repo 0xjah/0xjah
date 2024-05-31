@@ -1,4 +1,7 @@
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=2D92148D&background=FF8DEA00&center=true&vCenter=true&width=435&height=30&lines=HI%2C+I'm+Ahmad+Jahaf+:3;I+see+you've+found+my+profile!+enjoy+the+ride....)](https://git.io/typing-svg)
+<h1 align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+    >𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+  </h1>
 <p align="center">
   <a href="https://github.com/0xjah?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=white&labelColor=black&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/0xajh"/>
