@@ -22,8 +22,7 @@
 [ <a href='https://github.com/0xjah/0xjah/issues/new'>Ask a question</a> ] ||
 [ <a href='https://github.com/0xjah/0xjah/issues?q=is%3Aissue+is%3Aclosed'>Read questions</a> ]
 </p>
-
-  <br>
+ <br>
   <br>
 <h1 align="center">Connect with me</h1>
 <p align="center">
