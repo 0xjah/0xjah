@@ -26,9 +26,9 @@
   <br>
 <h1 align="center">Connect with me</h1>
 <p align="center">
-<a href="https://twitter.com/0x_jah" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="0x_jah" /></a>
-<a href="https://linkedin.com/in/ahmad-jahaf" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ahmad-jahaf" /></a>
-<a href="https://instagram.com/0xjah" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="0xjah" /></a>
+<a href="https://twitter.com/0x_jah" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="0x_jah" /></a>
+<a href="https://linkedin.com/in/ahmad-jahaf" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="ahmad-jahaf" /></a>
+<a href="https://instagram.com/0xjah" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="0xjah" /></a>
 </p>
 
 <h1 align="center">Techs</h1>
