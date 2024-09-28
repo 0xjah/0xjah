@@ -1,7 +1,7 @@
 <h1 align="center">
       <img src="github/anime-aaaa.gif" width="50">
-    >𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <HACKERS/>!
-      <img src="github/what-the-nagatoro.gif" width="50">
+    >𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+          <img src="github/what-the-nagatoro.gif" width="50">
   </h1>
 <p align="center">
   <a href="https://github.com/0xjah?tab=repositories&sort=stargazers">
