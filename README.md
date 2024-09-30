@@ -44,10 +44,12 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white">
   <img alt="ShellScript" src="https://img.shields.io/badge/-ShellScript-black?style=for-the-badge&logo=gnu%20bash&logoColor=white">
   <img alt="Powershell" src="https://img.shields.io/badge/-PowerShell-black?&style=for-the-badge&logo=powershell&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"><br>
   <img alt="C" src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img alt="JS" src="https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript&logoColor=white">
+  <img alt="Lua" src="https://img.shields.io/badge/-lua-black?style=for-the-badge&logo=lua&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react&logoColor=white">
 </p>
 
 <hr>
