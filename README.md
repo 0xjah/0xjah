@@ -50,6 +50,10 @@
   <img alt="JS" src="https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript&logoColor=white">
   <img alt="Lua" src="https://img.shields.io/badge/-lua-black?style=for-the-badge&logo=lua&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react&logoColor=white">
+<img alt="Linux" src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=linux&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=linux&logoColor=white">
+    <img alt="Linux" src="https://img.shields.io/badge/-Vim-black?style=for-the-badge&logo=linux&logoColor=white">
+      <img alt="Linux" src="https://img.shields.io/badge/-Windows-black?style=for-the-badge&logo=linux&logoColor=white">
 </p>
 
 <hr>
