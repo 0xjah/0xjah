@@ -50,10 +50,10 @@
   <img alt="JS" src="https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript&logoColor=white">
   <img alt="Lua" src="https://img.shields.io/badge/-lua-black?style=for-the-badge&logo=lua&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react&logoColor=white">
-<img alt="CSS" src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=linux&logoColor=white">
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=linux&logoColor=white">
-    <img alt="Vim" src="https://img.shields.io/badge/-Vim-black?style=for-the-badge&logo=linux&logoColor=white">
-      <img alt="Windows" src="https://img.shields.io/badge/-Windows-black?style=for-the-badge&logo=linux&logoColor=white">
+<img alt="CSS" src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html&logoColor=white">
+    <img alt="Vim" src="https://img.shields.io/badge/-Vim-black?style=for-the-badge&logo=vim&logoColor=white">
+      <img alt="Windows" src="https://img.shields.io/badge/-Windows-black?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
 <hr>
