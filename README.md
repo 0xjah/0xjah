@@ -68,3 +68,4 @@
 <br/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xjah&label=Profile%20views&color=0e75b6&style=flat" alt="0xjah" /> </p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/763769303681335316?idleMessage=%E2%80%9CWho%20has%20a%20better%20kernel%3F%20Debian%3F%20No.%E2%80%9D)](https://discord.com/users/763769303681335316)
