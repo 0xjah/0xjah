@@ -55,7 +55,8 @@
     <img alt="Vim" src="https://img.shields.io/badge/-Vim-black?style=for-the-badge&logo=vim&logoColor=white">
       <img alt="Windows" src="https://img.shields.io/badge/-Windows-black?style=for-the-badge&logo=windows&logoColor=white">
 </p>
-
+### Find me on Discord 💻
+[![Discord Presence](https://lanyard.cnrad.dev/api/1001889586626175006)](https://discord.com/users/1001889586626175006)
 <hr>
 <div align="center">
   <br/>
