@@ -71,16 +71,9 @@
 <div align="center">
   <img src="https://github.com/0xjah/0xjah/blob/main/github/ijiranaide-nagatoro-san-anime-jp.gif?raw=true" alt="Nagatoro GIF" width="300"/>
 </div>
-
-<br>
-
 <!-- Snake Contribution Animation -->
 <p align="center">
-  <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=0xjah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
 ---
@@ -91,4 +84,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=0xjah&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xjah&layout=compact&theme=tokyonight" alt="Top Languages">
+    <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=0xjah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
