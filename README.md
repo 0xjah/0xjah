@@ -1,72 +1,94 @@
 <h1 align="center">
-      <img src="github/anime-aaaa.gif" width="50">
-    >𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!
-          <img src="github/what-the-nagatoro.gif" width="50">
-  </h1>
+  <img src="https://github.com/0xjah/0xjah/blob/main/github/anime-aaaa.gif?raw=true" width="50">
+  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>
+  <img src="https://github.com/0xjah/0xjah/blob/main/github/what-the-nagatoro.gif?raw=true" width="50">
+</h1>
+
 <p align="center">
   <a href="https://github.com/0xjah?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=white&labelColor=black&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/0xajh"/>
+    <img alt="Stars" title="GitHub Stars" src="https://img.shields.io/github/stars/0xjah?style=for-the-badge&label=Stars&logo=github&labelColor=black&color=white"/>
   </a>
 
   <a href="https://github.com/0xjah">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0xjah?color=white&labelColor=black&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img alt="Followers" title="GitHub Followers" src="https://img.shields.io/github/followers/0xjah?style=for-the-badge&label=Follow&logo=github&labelColor=black&color=white"/>
   </a>
-  
-  <br>
-  <br>
 
-  <img src="github/code.gif" width="175">
+  <br><br>
+
+<p align="center">
+  <img src="https://github.com/0xjah/0xjah/blob/main/github/code.gif?raw=true" width="175">
+</p>
 </p>
 
 <p align="center">
-[ <a href='https://github.com/0xjah/0xjah/issues/new'>Ask a question</a> ] ||
-[ <a href='https://github.com/0xjah/0xjah/issues?q=is%3Aissue+is%3Aclosed'>Read questions</a> ]
+  [ <a href='https://github.com/0xjah/0xjah/issues/new'>Ask a question</a> ] ||
+  [ <a href='https://github.com/0xjah/0xjah/issues?q=is%3Aissue+is%3Aclosed'>Read questions</a> ]
 </p>
- <br>
-  <br>
+
+<br><br>
+
 <h1 align="center">Connect with me</h1>
+
 <p align="center">
-<a href="https://x.com/0x_jah" target="blank"><img align="center" src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="0x_jah" /></a>
-<a href="https://linkedin.com/in/ahmad-jahaf" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="ahmad-jahaf" /></a>
-<a href="https://instagram.com/0xjah" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="0xjah" /></a>
+  <a href="https://x.com/0x_jah" target="_blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://linkedin.com/in/ahmad-jahaf" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/0xjah" target="_blank"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 <h1 align="center">Techs</h1>
 
 <p align="center">
-  <img align="center" src="github/typing.gif" alt="GIF" width="300" heigh="190"/>
-  
+  <img src="https://github.com/0xjah/0xjah/blob/main/github/typing.gif?raw=true" alt="GIF" width="300" height="190"/>
 </p>
 
 <p align="center">
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white">
-  <img alt="Windows" src="https://img.shields.io/badge/-Windows-black?&style=for-the-badge&logo=windows&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="ShellScript" src="https://img.shields.io/badge/-ShellScript-black?style=for-the-badge&logo=gnu%20bash&logoColor=white">
-  <img alt="Powershell" src="https://img.shields.io/badge/-PowerShell-black?&style=for-the-badge&logo=powershell&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"><br>
-  <img alt="C" src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img alt="JS" src="https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript&logoColor=white">
-  <img alt="Lua" src="https://img.shields.io/badge/-lua-black?style=for-the-badge&logo=lua&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react&logoColor=white">
-<img alt="CSS" src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css&logoColor=white">
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html&logoColor=white">
-    <img alt="Vim" src="https://img.shields.io/badge/-Vim-black?style=for-the-badge&logo=vim&logoColor=white">
-      <img alt="Windows" src="https://img.shields.io/badge/-Windows-black?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/ShellScript-black?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="ShellScript">
+  <img src="https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" alt="Python"><br>
+  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="JS">
+  <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/Vim-black?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
 </p>
-### Find me on Discord 💻
-[![Discord Presence](https://lanyard.cnrad.dev/api/1001889586626175006)](https://discord.com/users/1001889586626175006)
+
+<h2 align="center">Find me on Discord 💻</h2>
+
+<p align="center">
+  <a href="https://discord.com/users/763769303681335316">
+    <img src="https://lanyard.cnrad.dev/api/763769303681335316?idleMessage=%E2%80%9CWho%20has%20a%20better%20kernel%3F%20Debian%3F%20No.%E2%80%9D" alt="Discord Presence">
+  </a>
+</p>
+
 <hr>
-<div align="center">
-  <br/>
-   <img align="center" src="github/ijiranaide-nagatoro-san-anime-jp.gif" alt="GIF" "/>
-</div>
-
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-<br/>
+  <img src="https://github.com/0xjah/0xjah/blob/main/github/ijiranaide-nagatoro-san-anime-jp.gif?raw=true" alt="Nagatoro GIF" width="300"/>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xjah&label=Profile%20views&color=0e75b6&style=flat" alt="0xjah" /> </p>
-![Discord Presence](https://lanyard.cnrad.dev/api/763769303681335316?idleMessage=%E2%80%9CWho%20has%20a%20better%20kernel%3F%20Debian%3F%20No.%E2%80%9D)](https://discord.com/users/763769303681335316)
+
+<br>
+
+<!-- Snake Contribution Animation -->
+<p align="center">
+  <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=0xjah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xjah&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xjah&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
