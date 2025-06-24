@@ -29,12 +29,24 @@
 
 <h1 align="center">Connect with me</h1>
 
-<p align="center">
-  <a href="https://x.com/0x_jah" target="_blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://linkedin.com/in/ahmad-jahaf" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/0xjah" target="_blank"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
-
+<table align="center">
+  <tr>
+    <td align="left" valign="top">
+      <a href="https://x.com/0x_jah" target="_blank">
+        <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X">
+      </a><br>
+      <a href="https://linkedin.com/in/ahmad-jahaf" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a><br>
+      <a href="https://instagram.com/0xjah" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+      </a>
+    </td>
+    <td align="right">
+      <img src="https://github.com/0xjah/0xjah/blob/main/github/ijiranaide-nagatoro-san-anime-jp.gif?raw=true" alt="Nagatoro GIF" width="300"/>
+    </td>
+  </tr>
+</table>
 <h1 align="center">Techs</h1>
 
 <p align="center">
@@ -53,10 +65,13 @@
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="JS">
   <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/HTMX-black?style=for-the-badge&logo=html5&logoColor=white" alt="HTMX">
   <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/Vim-black?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
+  <img src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go&logoColor=white" alt="Go">
 </p>
+
 
 <h2 align="center">Find me on Discord 💻</h2>
 
@@ -68,15 +83,10 @@
 
 <hr>
 
-<div align="center">
-  <img src="https://github.com/0xjah/0xjah/blob/main/github/ijiranaide-nagatoro-san-anime-jp.gif?raw=true" alt="Nagatoro GIF" width="300"/>
-</div>
-<!-- Snake Contribution Animation -->
 <p align="center">
 
 </p>
 
----
 
 ### 📊 GitHub Stats
 
