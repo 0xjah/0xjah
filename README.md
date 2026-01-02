@@ -1,7 +1,8 @@
 RAEDME
 =======
 
-Nothing to say here except "Simplicity Over Complexity" - Terry A. Davis.
+Nothing to say here except :
+> "Simplicity Over Complexity" - Terry A. Davis.
 
 <p align="left">
   <a href="https://0xjah.me">
