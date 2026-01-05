@@ -6,6 +6,6 @@ Nothing to say here except :
 
 <p align="left">
   <a href="https://0xjah.me">
-    <img align="center" src="img.jpg"/>
+    <img align="center" src="fractol.jpg"/>
   </a>
 </p>
