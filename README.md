@@ -6,7 +6,6 @@ Nothing to say here except :
 
 <p align="left">
   <a href="https://0xjah.me">
-    <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=0xjah&theme=transparent&hide=issues&include_all_commits=true&v=2"/>
-    <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0xjah&layout=compact&theme=transparent&hide=JavaScript&v=2"/>
+    <img align="center" src="img.jpg"/>
   </a>
 </p>
